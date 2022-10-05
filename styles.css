@@ -105,8 +105,8 @@ a{
 }
 .author{
   display:inline-block;
-  width:20%;
-  height:300px;
+  width:12rem;
+  min-height: 12rem;
   border-radius:50%;
   background:url(Siddu.jpg) center no-repeat;
   background-size:cover;
